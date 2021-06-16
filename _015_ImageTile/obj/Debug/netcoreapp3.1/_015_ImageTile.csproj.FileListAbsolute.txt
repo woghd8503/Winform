@@ -1,0 +1,16 @@
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_015_ImageTile\bin\Debug\netcoreapp3.1\_015_ImageTile.exe
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_015_ImageTile\bin\Debug\netcoreapp3.1\_015_ImageTile.deps.json
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_015_ImageTile\bin\Debug\netcoreapp3.1\_015_ImageTile.runtimeconfig.json
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_015_ImageTile\bin\Debug\netcoreapp3.1\_015_ImageTile.runtimeconfig.dev.json
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_015_ImageTile\bin\Debug\netcoreapp3.1\_015_ImageTile.dll
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_015_ImageTile\bin\Debug\netcoreapp3.1\_015_ImageTile.pdb
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_015_ImageTile\obj\Debug\netcoreapp3.1\_015_ImageTile.csprojAssemblyReference.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_015_ImageTile\obj\Debug\netcoreapp3.1\_015_ImageTile.Form1.resources
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_015_ImageTile\obj\Debug\netcoreapp3.1\_015_ImageTile.Properties.Resources.resources
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_015_ImageTile\obj\Debug\netcoreapp3.1\_015_ImageTile.csproj.GenerateResource.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_015_ImageTile\obj\Debug\netcoreapp3.1\_015_ImageTile.AssemblyInfoInputs.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_015_ImageTile\obj\Debug\netcoreapp3.1\_015_ImageTile.AssemblyInfo.cs
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_015_ImageTile\obj\Debug\netcoreapp3.1\_015_ImageTile.csproj.CoreCompileInputs.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_015_ImageTile\obj\Debug\netcoreapp3.1\_015_ImageTile.dll
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_015_ImageTile\obj\Debug\netcoreapp3.1\_015_ImageTile.pdb
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_015_ImageTile\obj\Debug\netcoreapp3.1\_015_ImageTile.genruntimeconfig.cache

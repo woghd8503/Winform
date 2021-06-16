@@ -1,0 +1,10 @@
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_001_DrawString\bin\Debug\_001_DrawString.exe.config
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_001_DrawString\bin\Debug\_001_DrawString.exe
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_001_DrawString\bin\Debug\_001_DrawString.pdb
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_001_DrawString\obj\Debug\_001_DrawString.csprojAssemblyReference.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_001_DrawString\obj\Debug\_001_DrawString.Properties.Resources.resources
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_001_DrawString\obj\Debug\_001_DrawString.csproj.GenerateResource.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_001_DrawString\obj\Debug\_001_DrawString.csproj.CoreCompileInputs.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_001_DrawString\obj\Debug\_001_DrawString.exe
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_001_DrawString\obj\Debug\_001_DrawString.pdb
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_001_DrawString\obj\Debug\_001_DrawString.Form1.resources

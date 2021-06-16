@@ -1,0 +1,15 @@
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_08_MoveEllipse_Boundary\bin\Debug\netcoreapp3.1\_08_MoveEllipse_Boundary.exe
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_08_MoveEllipse_Boundary\bin\Debug\netcoreapp3.1\_08_MoveEllipse_Boundary.deps.json
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_08_MoveEllipse_Boundary\bin\Debug\netcoreapp3.1\_08_MoveEllipse_Boundary.runtimeconfig.json
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_08_MoveEllipse_Boundary\bin\Debug\netcoreapp3.1\_08_MoveEllipse_Boundary.runtimeconfig.dev.json
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_08_MoveEllipse_Boundary\bin\Debug\netcoreapp3.1\_08_MoveEllipse_Boundary.dll
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_08_MoveEllipse_Boundary\bin\Debug\netcoreapp3.1\_08_MoveEllipse_Boundary.pdb
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_08_MoveEllipse_Boundary\obj\Debug\netcoreapp3.1\_08_MoveEllipse_Boundary.csprojAssemblyReference.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_08_MoveEllipse_Boundary\obj\Debug\netcoreapp3.1\_08_MoveEllipse_Boundary.Form1.resources
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_08_MoveEllipse_Boundary\obj\Debug\netcoreapp3.1\_08_MoveEllipse_Boundary.csproj.GenerateResource.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_08_MoveEllipse_Boundary\obj\Debug\netcoreapp3.1\_08_MoveEllipse_Boundary.AssemblyInfoInputs.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_08_MoveEllipse_Boundary\obj\Debug\netcoreapp3.1\_08_MoveEllipse_Boundary.AssemblyInfo.cs
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_08_MoveEllipse_Boundary\obj\Debug\netcoreapp3.1\_08_MoveEllipse_Boundary.csproj.CoreCompileInputs.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_08_MoveEllipse_Boundary\obj\Debug\netcoreapp3.1\_08_MoveEllipse_Boundary.dll
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_08_MoveEllipse_Boundary\obj\Debug\netcoreapp3.1\_08_MoveEllipse_Boundary.pdb
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_08_MoveEllipse_Boundary\obj\Debug\netcoreapp3.1\_08_MoveEllipse_Boundary.genruntimeconfig.cache

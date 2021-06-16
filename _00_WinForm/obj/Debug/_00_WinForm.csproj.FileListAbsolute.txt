@@ -1,0 +1,8 @@
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_00_WinForm\bin\Debug\_00_WinForm.exe.config
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_00_WinForm\bin\Debug\_00_WinForm.exe
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_00_WinForm\bin\Debug\_00_WinForm.pdb
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_00_WinForm\obj\Debug\_00_WinForm.Properties.Resources.resources
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_00_WinForm\obj\Debug\_00_WinForm.csproj.GenerateResource.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_00_WinForm\obj\Debug\_00_WinForm.csproj.CoreCompileInputs.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_00_WinForm\obj\Debug\_00_WinForm.exe
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_00_WinForm\obj\Debug\_00_WinForm.pdb

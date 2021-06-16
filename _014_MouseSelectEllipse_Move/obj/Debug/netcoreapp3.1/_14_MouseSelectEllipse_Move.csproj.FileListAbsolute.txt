@@ -1,0 +1,15 @@
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_14_MouseSelectEllipse_Move\bin\Debug\netcoreapp3.1\_14_MouseSelectEllipse_Move.exe
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_14_MouseSelectEllipse_Move\bin\Debug\netcoreapp3.1\_14_MouseSelectEllipse_Move.deps.json
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_14_MouseSelectEllipse_Move\bin\Debug\netcoreapp3.1\_14_MouseSelectEllipse_Move.runtimeconfig.json
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_14_MouseSelectEllipse_Move\bin\Debug\netcoreapp3.1\_14_MouseSelectEllipse_Move.runtimeconfig.dev.json
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_14_MouseSelectEllipse_Move\bin\Debug\netcoreapp3.1\_14_MouseSelectEllipse_Move.dll
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_14_MouseSelectEllipse_Move\bin\Debug\netcoreapp3.1\_14_MouseSelectEllipse_Move.pdb
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_14_MouseSelectEllipse_Move\obj\Debug\netcoreapp3.1\_14_MouseSelectEllipse_Move.csprojAssemblyReference.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_14_MouseSelectEllipse_Move\obj\Debug\netcoreapp3.1\_14_MouseSelectEllipse_Move.Form1.resources
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_14_MouseSelectEllipse_Move\obj\Debug\netcoreapp3.1\_14_MouseSelectEllipse_Move.csproj.GenerateResource.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_14_MouseSelectEllipse_Move\obj\Debug\netcoreapp3.1\_14_MouseSelectEllipse_Move.AssemblyInfoInputs.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_14_MouseSelectEllipse_Move\obj\Debug\netcoreapp3.1\_14_MouseSelectEllipse_Move.AssemblyInfo.cs
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_14_MouseSelectEllipse_Move\obj\Debug\netcoreapp3.1\_14_MouseSelectEllipse_Move.csproj.CoreCompileInputs.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_14_MouseSelectEllipse_Move\obj\Debug\netcoreapp3.1\_14_MouseSelectEllipse_Move.dll
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_14_MouseSelectEllipse_Move\obj\Debug\netcoreapp3.1\_14_MouseSelectEllipse_Move.pdb
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_14_MouseSelectEllipse_Move\obj\Debug\netcoreapp3.1\_14_MouseSelectEllipse_Move.genruntimeconfig.cache

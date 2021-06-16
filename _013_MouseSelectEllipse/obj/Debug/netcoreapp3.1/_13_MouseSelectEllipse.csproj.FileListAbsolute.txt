@@ -1,0 +1,15 @@
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_13_MouseSelectEllipse\bin\Debug\netcoreapp3.1\_13_MouseSelectEllipse.exe
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_13_MouseSelectEllipse\bin\Debug\netcoreapp3.1\_13_MouseSelectEllipse.deps.json
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_13_MouseSelectEllipse\bin\Debug\netcoreapp3.1\_13_MouseSelectEllipse.runtimeconfig.json
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_13_MouseSelectEllipse\bin\Debug\netcoreapp3.1\_13_MouseSelectEllipse.runtimeconfig.dev.json
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_13_MouseSelectEllipse\bin\Debug\netcoreapp3.1\_13_MouseSelectEllipse.dll
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_13_MouseSelectEllipse\bin\Debug\netcoreapp3.1\_13_MouseSelectEllipse.pdb
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_13_MouseSelectEllipse\obj\Debug\netcoreapp3.1\_13_MouseSelectEllipse.csprojAssemblyReference.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_13_MouseSelectEllipse\obj\Debug\netcoreapp3.1\_13_MouseSelectEllipse.Form1.resources
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_13_MouseSelectEllipse\obj\Debug\netcoreapp3.1\_13_MouseSelectEllipse.csproj.GenerateResource.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_13_MouseSelectEllipse\obj\Debug\netcoreapp3.1\_13_MouseSelectEllipse.AssemblyInfoInputs.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_13_MouseSelectEllipse\obj\Debug\netcoreapp3.1\_13_MouseSelectEllipse.AssemblyInfo.cs
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_13_MouseSelectEllipse\obj\Debug\netcoreapp3.1\_13_MouseSelectEllipse.csproj.CoreCompileInputs.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_13_MouseSelectEllipse\obj\Debug\netcoreapp3.1\_13_MouseSelectEllipse.dll
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_13_MouseSelectEllipse\obj\Debug\netcoreapp3.1\_13_MouseSelectEllipse.pdb
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_13_MouseSelectEllipse\obj\Debug\netcoreapp3.1\_13_MouseSelectEllipse.genruntimeconfig.cache

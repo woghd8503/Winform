@@ -1,0 +1,9 @@
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_06_DrawEllipse\bin\Debug\_06_DrawEllipse.exe.config
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_06_DrawEllipse\bin\Debug\_06_DrawEllipse.exe
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_06_DrawEllipse\bin\Debug\_06_DrawEllipse.pdb
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_06_DrawEllipse\obj\Debug\_06_DrawEllipse.csprojAssemblyReference.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_06_DrawEllipse\obj\Debug\_06_DrawEllipse.Properties.Resources.resources
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_06_DrawEllipse\obj\Debug\_06_DrawEllipse.csproj.GenerateResource.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_06_DrawEllipse\obj\Debug\_06_DrawEllipse.csproj.CoreCompileInputs.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_06_DrawEllipse\obj\Debug\_06_DrawEllipse.exe
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_06_DrawEllipse\obj\Debug\_06_DrawEllipse.pdb

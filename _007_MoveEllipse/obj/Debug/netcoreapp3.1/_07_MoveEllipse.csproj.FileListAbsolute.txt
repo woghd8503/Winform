@@ -1,0 +1,14 @@
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_07_MoveEllipse\bin\Debug\netcoreapp3.1\_07_MoveEllipse.exe
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_07_MoveEllipse\bin\Debug\netcoreapp3.1\_07_MoveEllipse.deps.json
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_07_MoveEllipse\bin\Debug\netcoreapp3.1\_07_MoveEllipse.runtimeconfig.json
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_07_MoveEllipse\bin\Debug\netcoreapp3.1\_07_MoveEllipse.runtimeconfig.dev.json
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_07_MoveEllipse\bin\Debug\netcoreapp3.1\_07_MoveEllipse.dll
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_07_MoveEllipse\bin\Debug\netcoreapp3.1\_07_MoveEllipse.pdb
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_07_MoveEllipse\obj\Debug\netcoreapp3.1\_07_MoveEllipse.Form1.resources
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_07_MoveEllipse\obj\Debug\netcoreapp3.1\_07_MoveEllipse.csproj.GenerateResource.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_07_MoveEllipse\obj\Debug\netcoreapp3.1\_07_MoveEllipse.AssemblyInfoInputs.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_07_MoveEllipse\obj\Debug\netcoreapp3.1\_07_MoveEllipse.AssemblyInfo.cs
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_07_MoveEllipse\obj\Debug\netcoreapp3.1\_07_MoveEllipse.csproj.CoreCompileInputs.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_07_MoveEllipse\obj\Debug\netcoreapp3.1\_07_MoveEllipse.dll
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_07_MoveEllipse\obj\Debug\netcoreapp3.1\_07_MoveEllipse.pdb
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_07_MoveEllipse\obj\Debug\netcoreapp3.1\_07_MoveEllipse.genruntimeconfig.cache

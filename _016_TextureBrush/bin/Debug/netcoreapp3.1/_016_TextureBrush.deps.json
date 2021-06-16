@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "_016_TextureBrush/1.0.0": {
+        "runtime": {
+          "_016_TextureBrush.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "_016_TextureBrush/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

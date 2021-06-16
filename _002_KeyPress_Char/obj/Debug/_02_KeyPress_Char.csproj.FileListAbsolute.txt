@@ -1,0 +1,8 @@
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_02_KeyPress_Char\bin\Debug\_02_KeyPress_Char.exe.config
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_02_KeyPress_Char\bin\Debug\_02_KeyPress_Char.exe
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_02_KeyPress_Char\bin\Debug\_02_KeyPress_Char.pdb
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_02_KeyPress_Char\obj\Debug\_02_KeyPress_Char.Properties.Resources.resources
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_02_KeyPress_Char\obj\Debug\_02_KeyPress_Char.csproj.GenerateResource.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_02_KeyPress_Char\obj\Debug\_02_KeyPress_Char.csproj.CoreCompileInputs.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_02_KeyPress_Char\obj\Debug\_02_KeyPress_Char.exe
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_02_KeyPress_Char\obj\Debug\_02_KeyPress_Char.pdb

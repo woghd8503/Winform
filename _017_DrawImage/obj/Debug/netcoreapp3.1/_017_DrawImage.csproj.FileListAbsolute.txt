@@ -1,0 +1,15 @@
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_017_DrawImage\bin\Debug\netcoreapp3.1\_017_DrawImage.exe
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_017_DrawImage\bin\Debug\netcoreapp3.1\_017_DrawImage.deps.json
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_017_DrawImage\bin\Debug\netcoreapp3.1\_017_DrawImage.runtimeconfig.json
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_017_DrawImage\bin\Debug\netcoreapp3.1\_017_DrawImage.runtimeconfig.dev.json
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_017_DrawImage\bin\Debug\netcoreapp3.1\_017_DrawImage.dll
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_017_DrawImage\bin\Debug\netcoreapp3.1\_017_DrawImage.pdb
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_017_DrawImage\obj\Debug\netcoreapp3.1\_017_DrawImage.csprojAssemblyReference.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_017_DrawImage\obj\Debug\netcoreapp3.1\_17_DrawImage.Form1.resources
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_017_DrawImage\obj\Debug\netcoreapp3.1\_017_DrawImage.csproj.GenerateResource.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_017_DrawImage\obj\Debug\netcoreapp3.1\_017_DrawImage.AssemblyInfoInputs.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_017_DrawImage\obj\Debug\netcoreapp3.1\_017_DrawImage.AssemblyInfo.cs
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_017_DrawImage\obj\Debug\netcoreapp3.1\_017_DrawImage.csproj.CoreCompileInputs.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_017_DrawImage\obj\Debug\netcoreapp3.1\_017_DrawImage.dll
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_017_DrawImage\obj\Debug\netcoreapp3.1\_017_DrawImage.pdb
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_017_DrawImage\obj\Debug\netcoreapp3.1\_017_DrawImage.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "_11_MoveEllipse_Timer/1.0.0": {
+        "runtime": {
+          "_11_MoveEllipse_Timer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "_11_MoveEllipse_Timer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

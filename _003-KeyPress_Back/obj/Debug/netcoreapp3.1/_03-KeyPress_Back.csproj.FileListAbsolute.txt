@@ -1,0 +1,15 @@
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_03-KeyPress_Back\bin\Debug\netcoreapp3.1\_03-KeyPress_Back.exe
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_03-KeyPress_Back\bin\Debug\netcoreapp3.1\_03-KeyPress_Back.deps.json
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_03-KeyPress_Back\bin\Debug\netcoreapp3.1\_03-KeyPress_Back.runtimeconfig.json
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_03-KeyPress_Back\bin\Debug\netcoreapp3.1\_03-KeyPress_Back.runtimeconfig.dev.json
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_03-KeyPress_Back\bin\Debug\netcoreapp3.1\_03-KeyPress_Back.dll
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_03-KeyPress_Back\bin\Debug\netcoreapp3.1\_03-KeyPress_Back.pdb
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_03-KeyPress_Back\obj\Debug\netcoreapp3.1\_03-KeyPress_Back.csprojAssemblyReference.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_03-KeyPress_Back\obj\Debug\netcoreapp3.1\_03_KeyPress_Back.Form1.resources
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_03-KeyPress_Back\obj\Debug\netcoreapp3.1\_03-KeyPress_Back.csproj.GenerateResource.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_03-KeyPress_Back\obj\Debug\netcoreapp3.1\_03-KeyPress_Back.AssemblyInfoInputs.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_03-KeyPress_Back\obj\Debug\netcoreapp3.1\_03-KeyPress_Back.AssemblyInfo.cs
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_03-KeyPress_Back\obj\Debug\netcoreapp3.1\_03-KeyPress_Back.csproj.CoreCompileInputs.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_03-KeyPress_Back\obj\Debug\netcoreapp3.1\_03-KeyPress_Back.dll
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_03-KeyPress_Back\obj\Debug\netcoreapp3.1\_03-KeyPress_Back.pdb
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_03-KeyPress_Back\obj\Debug\netcoreapp3.1\_03-KeyPress_Back.genruntimeconfig.cache

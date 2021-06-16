@@ -1,0 +1,9 @@
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_04_DrawLine\bin\Debug\_04_DrawLine.exe.config
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_04_DrawLine\bin\Debug\_04_DrawLine.exe
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_04_DrawLine\bin\Debug\_04_DrawLine.pdb
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_04_DrawLine\obj\Debug\_04_DrawLine.csprojAssemblyReference.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_04_DrawLine\obj\Debug\_04_DrawLine.Properties.Resources.resources
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_04_DrawLine\obj\Debug\_04_DrawLine.csproj.GenerateResource.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_04_DrawLine\obj\Debug\_04_DrawLine.csproj.CoreCompileInputs.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_04_DrawLine\obj\Debug\_04_DrawLine.exe
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_04_DrawLine\obj\Debug\_04_DrawLine.pdb

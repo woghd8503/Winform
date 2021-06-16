@@ -1,0 +1,9 @@
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_005_DrawRectangle\bin\Debug\_05_DrawRectangle.exe.config
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_005_DrawRectangle\bin\Debug\_05_DrawRectangle.exe
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_005_DrawRectangle\bin\Debug\_05_DrawRectangle.pdb
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_005_DrawRectangle\obj\Debug\_005_DrawRectangle.csprojAssemblyReference.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_005_DrawRectangle\obj\Debug\_05_DrawRectangle.Properties.Resources.resources
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_005_DrawRectangle\obj\Debug\_005_DrawRectangle.csproj.GenerateResource.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_005_DrawRectangle\obj\Debug\_005_DrawRectangle.csproj.CoreCompileInputs.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_005_DrawRectangle\obj\Debug\_05_DrawRectangle.exe
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_005_DrawRectangle\obj\Debug\_05_DrawRectangle.pdb
