@@ -1,0 +1,15 @@
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_022_CheckBox_RadioButton\obj\Debug\netcoreapp3.1\_022_CheckBox_RadioButton.csprojAssemblyReference.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_022_CheckBox_RadioButton\obj\Debug\netcoreapp3.1\_022_CheckBox_RadioButton.Form1.resources
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_022_CheckBox_RadioButton\obj\Debug\netcoreapp3.1\_022_CheckBox_RadioButton.csproj.GenerateResource.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_022_CheckBox_RadioButton\obj\Debug\netcoreapp3.1\_022_CheckBox_RadioButton.AssemblyInfoInputs.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_022_CheckBox_RadioButton\obj\Debug\netcoreapp3.1\_022_CheckBox_RadioButton.AssemblyInfo.cs
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_022_CheckBox_RadioButton\obj\Debug\netcoreapp3.1\_022_CheckBox_RadioButton.csproj.CoreCompileInputs.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_022_CheckBox_RadioButton\bin\Debug\netcoreapp3.1\_022_CheckBox_RadioButton.exe
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_022_CheckBox_RadioButton\bin\Debug\netcoreapp3.1\_022_CheckBox_RadioButton.deps.json
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_022_CheckBox_RadioButton\bin\Debug\netcoreapp3.1\_022_CheckBox_RadioButton.runtimeconfig.json
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_022_CheckBox_RadioButton\bin\Debug\netcoreapp3.1\_022_CheckBox_RadioButton.runtimeconfig.dev.json
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_022_CheckBox_RadioButton\bin\Debug\netcoreapp3.1\_022_CheckBox_RadioButton.dll
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_022_CheckBox_RadioButton\bin\Debug\netcoreapp3.1\_022_CheckBox_RadioButton.pdb
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_022_CheckBox_RadioButton\obj\Debug\netcoreapp3.1\_022_CheckBox_RadioButton.dll
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_022_CheckBox_RadioButton\obj\Debug\netcoreapp3.1\_022_CheckBox_RadioButton.pdb
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_022_CheckBox_RadioButton\obj\Debug\netcoreapp3.1\_022_CheckBox_RadioButton.genruntimeconfig.cache

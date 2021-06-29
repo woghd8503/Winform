@@ -1,0 +1,15 @@
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_020_ToolBar\bin\Debug\netcoreapp3.1\_020_ToolBar.exe
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_020_ToolBar\bin\Debug\netcoreapp3.1\_020_ToolBar.deps.json
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_020_ToolBar\bin\Debug\netcoreapp3.1\_020_ToolBar.runtimeconfig.json
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_020_ToolBar\bin\Debug\netcoreapp3.1\_020_ToolBar.runtimeconfig.dev.json
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_020_ToolBar\bin\Debug\netcoreapp3.1\_020_ToolBar.dll
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_020_ToolBar\bin\Debug\netcoreapp3.1\_020_ToolBar.pdb
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_020_ToolBar\obj\Debug\netcoreapp3.1\_020_ToolBar.Form1.resources
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_020_ToolBar\obj\Debug\netcoreapp3.1\_020_ToolBar.csproj.GenerateResource.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_020_ToolBar\obj\Debug\netcoreapp3.1\_020_ToolBar.AssemblyInfoInputs.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_020_ToolBar\obj\Debug\netcoreapp3.1\_020_ToolBar.AssemblyInfo.cs
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_020_ToolBar\obj\Debug\netcoreapp3.1\_020_ToolBar.csproj.CoreCompileInputs.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_020_ToolBar\obj\Debug\netcoreapp3.1\_020_ToolBar.dll
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_020_ToolBar\obj\Debug\netcoreapp3.1\_020_ToolBar.pdb
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_020_ToolBar\obj\Debug\netcoreapp3.1\_020_ToolBar.genruntimeconfig.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_020_ToolBar\obj\Debug\netcoreapp3.1\_020_ToolBar.csprojAssemblyReference.cache

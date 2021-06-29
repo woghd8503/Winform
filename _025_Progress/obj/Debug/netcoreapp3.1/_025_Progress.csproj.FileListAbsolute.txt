@@ -1,0 +1,14 @@
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_025_Progress\bin\Debug\netcoreapp3.1\_025_Progress.exe
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_025_Progress\bin\Debug\netcoreapp3.1\_025_Progress.deps.json
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_025_Progress\bin\Debug\netcoreapp3.1\_025_Progress.runtimeconfig.json
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_025_Progress\bin\Debug\netcoreapp3.1\_025_Progress.runtimeconfig.dev.json
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_025_Progress\bin\Debug\netcoreapp3.1\_025_Progress.dll
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_025_Progress\bin\Debug\netcoreapp3.1\_025_Progress.pdb
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_025_Progress\obj\Debug\netcoreapp3.1\_25_Progress.Form1.resources
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_025_Progress\obj\Debug\netcoreapp3.1\_025_Progress.csproj.GenerateResource.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_025_Progress\obj\Debug\netcoreapp3.1\_025_Progress.AssemblyInfoInputs.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_025_Progress\obj\Debug\netcoreapp3.1\_025_Progress.AssemblyInfo.cs
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_025_Progress\obj\Debug\netcoreapp3.1\_025_Progress.csproj.CoreCompileInputs.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_025_Progress\obj\Debug\netcoreapp3.1\_025_Progress.dll
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_025_Progress\obj\Debug\netcoreapp3.1\_025_Progress.pdb
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_025_Progress\obj\Debug\netcoreapp3.1\_025_Progress.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_035_MemoText\bin\Debug\netcoreapp3.1\_035_MemoText.exe
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_035_MemoText\bin\Debug\netcoreapp3.1\_035_MemoText.deps.json
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_035_MemoText\bin\Debug\netcoreapp3.1\_035_MemoText.runtimeconfig.json
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_035_MemoText\bin\Debug\netcoreapp3.1\_035_MemoText.runtimeconfig.dev.json
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_035_MemoText\bin\Debug\netcoreapp3.1\_035_MemoText.dll
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_035_MemoText\bin\Debug\netcoreapp3.1\_035_MemoText.pdb
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_035_MemoText\obj\Debug\netcoreapp3.1\_035_MemoText.csprojAssemblyReference.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_035_MemoText\obj\Debug\netcoreapp3.1\_035_MemoText.Form1.resources
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_035_MemoText\obj\Debug\netcoreapp3.1\_035_MemoText.csproj.GenerateResource.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_035_MemoText\obj\Debug\netcoreapp3.1\_035_MemoText.AssemblyInfoInputs.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_035_MemoText\obj\Debug\netcoreapp3.1\_035_MemoText.AssemblyInfo.cs
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_035_MemoText\obj\Debug\netcoreapp3.1\_035_MemoText.csproj.CoreCompileInputs.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_035_MemoText\obj\Debug\netcoreapp3.1\_035_MemoText.dll
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_035_MemoText\obj\Debug\netcoreapp3.1\_035_MemoText.pdb
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_035_MemoText\obj\Debug\netcoreapp3.1\_035_MemoText.genruntimeconfig.cache

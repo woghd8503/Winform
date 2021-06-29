@@ -1,0 +1,15 @@
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_23_ListBox\bin\Debug\netcoreapp3.1\_23_ListBox.exe
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_23_ListBox\bin\Debug\netcoreapp3.1\_23_ListBox.deps.json
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_23_ListBox\bin\Debug\netcoreapp3.1\_23_ListBox.runtimeconfig.json
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_23_ListBox\bin\Debug\netcoreapp3.1\_23_ListBox.runtimeconfig.dev.json
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_23_ListBox\bin\Debug\netcoreapp3.1\_23_ListBox.dll
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_23_ListBox\bin\Debug\netcoreapp3.1\_23_ListBox.pdb
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_23_ListBox\obj\Debug\netcoreapp3.1\_23_ListBox.Form1.resources
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_23_ListBox\obj\Debug\netcoreapp3.1\_23_ListBox.csproj.GenerateResource.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_23_ListBox\obj\Debug\netcoreapp3.1\_23_ListBox.AssemblyInfoInputs.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_23_ListBox\obj\Debug\netcoreapp3.1\_23_ListBox.AssemblyInfo.cs
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_23_ListBox\obj\Debug\netcoreapp3.1\_23_ListBox.csproj.CoreCompileInputs.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_23_ListBox\obj\Debug\netcoreapp3.1\_23_ListBox.dll
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_23_ListBox\obj\Debug\netcoreapp3.1\_23_ListBox.pdb
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_23_ListBox\obj\Debug\netcoreapp3.1\_23_ListBox.genruntimeconfig.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_23_ListBox\obj\Debug\netcoreapp3.1\_23_ListBox.csprojAssemblyReference.cache

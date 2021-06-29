@@ -1,0 +1,15 @@
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_029_Spliter\bin\Debug\netcoreapp3.1\_029_Spliter.exe
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_029_Spliter\bin\Debug\netcoreapp3.1\_029_Spliter.deps.json
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_029_Spliter\bin\Debug\netcoreapp3.1\_029_Spliter.runtimeconfig.json
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_029_Spliter\bin\Debug\netcoreapp3.1\_029_Spliter.runtimeconfig.dev.json
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_029_Spliter\bin\Debug\netcoreapp3.1\_029_Spliter.dll
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_029_Spliter\bin\Debug\netcoreapp3.1\_029_Spliter.pdb
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_029_Spliter\obj\Debug\netcoreapp3.1\_029_Spliter.Form1.resources
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_029_Spliter\obj\Debug\netcoreapp3.1\_029_Spliter.Properties.Resources.resources
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_029_Spliter\obj\Debug\netcoreapp3.1\_029_Spliter.csproj.GenerateResource.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_029_Spliter\obj\Debug\netcoreapp3.1\_029_Spliter.AssemblyInfoInputs.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_029_Spliter\obj\Debug\netcoreapp3.1\_029_Spliter.AssemblyInfo.cs
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_029_Spliter\obj\Debug\netcoreapp3.1\_029_Spliter.csproj.CoreCompileInputs.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_029_Spliter\obj\Debug\netcoreapp3.1\_029_Spliter.dll
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_029_Spliter\obj\Debug\netcoreapp3.1\_029_Spliter.pdb
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_029_Spliter\obj\Debug\netcoreapp3.1\_029_Spliter.genruntimeconfig.cache

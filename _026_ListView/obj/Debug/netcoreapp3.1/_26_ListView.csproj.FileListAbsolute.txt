@@ -1,0 +1,14 @@
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_26_ListView\obj\Debug\netcoreapp3.1\_26_ListView.Form1.resources
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_26_ListView\obj\Debug\netcoreapp3.1\_26_ListView.csproj.GenerateResource.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_26_ListView\obj\Debug\netcoreapp3.1\_26_ListView.AssemblyInfoInputs.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_26_ListView\obj\Debug\netcoreapp3.1\_26_ListView.AssemblyInfo.cs
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_26_ListView\obj\Debug\netcoreapp3.1\_26_ListView.csproj.CoreCompileInputs.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_26_ListView\bin\Debug\netcoreapp3.1\_26_ListView.exe
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_26_ListView\bin\Debug\netcoreapp3.1\_26_ListView.deps.json
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_26_ListView\bin\Debug\netcoreapp3.1\_26_ListView.runtimeconfig.json
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_26_ListView\bin\Debug\netcoreapp3.1\_26_ListView.runtimeconfig.dev.json
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_26_ListView\bin\Debug\netcoreapp3.1\_26_ListView.dll
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_26_ListView\bin\Debug\netcoreapp3.1\_26_ListView.pdb
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_26_ListView\obj\Debug\netcoreapp3.1\_26_ListView.dll
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_26_ListView\obj\Debug\netcoreapp3.1\_26_ListView.pdb
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_26_ListView\obj\Debug\netcoreapp3.1\_26_ListView.genruntimeconfig.cache

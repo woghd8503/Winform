@@ -1,0 +1,16 @@
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_021_CodeButton\bin\Debug\netcoreapp3.1\_021_CodeButton.exe
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_021_CodeButton\bin\Debug\netcoreapp3.1\_021_CodeButton.deps.json
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_021_CodeButton\bin\Debug\netcoreapp3.1\_021_CodeButton.runtimeconfig.json
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_021_CodeButton\bin\Debug\netcoreapp3.1\_021_CodeButton.runtimeconfig.dev.json
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_021_CodeButton\bin\Debug\netcoreapp3.1\_021_CodeButton.dll
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_021_CodeButton\bin\Debug\netcoreapp3.1\_021_CodeButton.pdb
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_021_CodeButton\obj\Debug\netcoreapp3.1\_021_CodeButton.Form1.resources
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_021_CodeButton\obj\Debug\netcoreapp3.1\_021_CodeButton.csproj.GenerateResource.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_021_CodeButton\obj\Debug\netcoreapp3.1\_021_CodeButton.AssemblyInfoInputs.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_021_CodeButton\obj\Debug\netcoreapp3.1\_021_CodeButton.AssemblyInfo.cs
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_021_CodeButton\obj\Debug\netcoreapp3.1\_021_CodeButton.csproj.CoreCompileInputs.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_021_CodeButton\obj\Debug\netcoreapp3.1\_021_CodeButton.dll
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_021_CodeButton\obj\Debug\netcoreapp3.1\_021_CodeButton.pdb
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_021_CodeButton\obj\Debug\netcoreapp3.1\_021_CodeButton.genruntimeconfig.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_021_CodeButton\obj\Debug\netcoreapp3.1\_021_CodeButton.Properties.Resources.resources
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_021_CodeButton\obj\Debug\netcoreapp3.1\_021_CodeButton.csprojAssemblyReference.cache

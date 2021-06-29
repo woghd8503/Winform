@@ -10,3 +10,16 @@ D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_0001_HomeWork_0616_5\obj\D
 D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_0001_HomeWork_0616_5\obj\Debug\netcoreapp3.1\_0001_HomeWork_0616_5.dll
 D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_0001_HomeWork_0616_5\obj\Debug\netcoreapp3.1\_0001_HomeWork_0616_5.pdb
 D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplication\_0001_HomeWork_0616_5\obj\Debug\netcoreapp3.1\_0001_HomeWork_0616_5.genruntimeconfig.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_0001_HomeWork_0616_5\bin\Debug\netcoreapp3.1\_0001_HomeWork_0616_5.exe
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_0001_HomeWork_0616_5\bin\Debug\netcoreapp3.1\_0001_HomeWork_0616_5.deps.json
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_0001_HomeWork_0616_5\bin\Debug\netcoreapp3.1\_0001_HomeWork_0616_5.runtimeconfig.json
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_0001_HomeWork_0616_5\bin\Debug\netcoreapp3.1\_0001_HomeWork_0616_5.runtimeconfig.dev.json
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_0001_HomeWork_0616_5\bin\Debug\netcoreapp3.1\_0001_HomeWork_0616_5.dll
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_0001_HomeWork_0616_5\bin\Debug\netcoreapp3.1\_0001_HomeWork_0616_5.pdb
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_0001_HomeWork_0616_5\obj\Debug\netcoreapp3.1\_0001_HomeWork_0616_5.csprojAssemblyReference.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_0001_HomeWork_0616_5\obj\Debug\netcoreapp3.1\_0001_HomeWork_0616_5.AssemblyInfoInputs.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_0001_HomeWork_0616_5\obj\Debug\netcoreapp3.1\_0001_HomeWork_0616_5.AssemblyInfo.cs
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_0001_HomeWork_0616_5\obj\Debug\netcoreapp3.1\_0001_HomeWork_0616_5.csproj.CoreCompileInputs.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_0001_HomeWork_0616_5\obj\Debug\netcoreapp3.1\_0001_HomeWork_0616_5.dll
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_0001_HomeWork_0616_5\obj\Debug\netcoreapp3.1\_0001_HomeWork_0616_5.pdb
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_0001_HomeWork_0616_5\obj\Debug\netcoreapp3.1\_0001_HomeWork_0616_5.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "_033_FormDrag/1.0.0": {
+        "runtime": {
+          "_033_FormDrag.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "_033_FormDrag/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

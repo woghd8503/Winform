@@ -1,0 +1,16 @@
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_30_MdiForm\bin\Debug\netcoreapp3.1\_30_MdiForm.exe
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_30_MdiForm\bin\Debug\netcoreapp3.1\_30_MdiForm.deps.json
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_30_MdiForm\bin\Debug\netcoreapp3.1\_30_MdiForm.runtimeconfig.json
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_30_MdiForm\bin\Debug\netcoreapp3.1\_30_MdiForm.runtimeconfig.dev.json
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_30_MdiForm\bin\Debug\netcoreapp3.1\_30_MdiForm.dll
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_30_MdiForm\bin\Debug\netcoreapp3.1\_30_MdiForm.pdb
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_30_MdiForm\obj\Debug\netcoreapp3.1\_30_MdiForm.Form1.resources
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_30_MdiForm\obj\Debug\netcoreapp3.1\_30_MdiForm.Properties.Resources.resources
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_30_MdiForm\obj\Debug\netcoreapp3.1\_30_MdiForm.csproj.GenerateResource.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_30_MdiForm\obj\Debug\netcoreapp3.1\_30_MdiForm.AssemblyInfoInputs.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_30_MdiForm\obj\Debug\netcoreapp3.1\_30_MdiForm.AssemblyInfo.cs
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_30_MdiForm\obj\Debug\netcoreapp3.1\_30_MdiForm.csproj.CoreCompileInputs.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_30_MdiForm\obj\Debug\netcoreapp3.1\_30_MdiForm.dll
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_30_MdiForm\obj\Debug\netcoreapp3.1\_30_MdiForm.pdb
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_30_MdiForm\obj\Debug\netcoreapp3.1\_30_MdiForm.genruntimeconfig.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_30_MdiForm\obj\Debug\netcoreapp3.1\_30_MdiForm.childForm.resources

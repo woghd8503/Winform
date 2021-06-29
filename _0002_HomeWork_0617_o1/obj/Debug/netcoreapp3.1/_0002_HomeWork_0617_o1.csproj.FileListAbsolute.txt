@@ -1,0 +1,15 @@
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_0002_HomeWork_0617_o1\bin\Debug\netcoreapp3.1\_0002_HomeWork_0617_o1.exe
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_0002_HomeWork_0617_o1\bin\Debug\netcoreapp3.1\_0002_HomeWork_0617_o1.deps.json
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_0002_HomeWork_0617_o1\bin\Debug\netcoreapp3.1\_0002_HomeWork_0617_o1.runtimeconfig.json
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_0002_HomeWork_0617_o1\bin\Debug\netcoreapp3.1\_0002_HomeWork_0617_o1.runtimeconfig.dev.json
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_0002_HomeWork_0617_o1\bin\Debug\netcoreapp3.1\_0002_HomeWork_0617_o1.dll
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_0002_HomeWork_0617_o1\bin\Debug\netcoreapp3.1\_0002_HomeWork_0617_o1.pdb
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_0002_HomeWork_0617_o1\obj\Debug\netcoreapp3.1\_0002_HomeWork_0617_o1.Form1.resources
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_0002_HomeWork_0617_o1\obj\Debug\netcoreapp3.1\_0002_HomeWork_0617_o1.csproj.GenerateResource.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_0002_HomeWork_0617_o1\obj\Debug\netcoreapp3.1\_0002_HomeWork_0617_o1.AssemblyInfoInputs.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_0002_HomeWork_0617_o1\obj\Debug\netcoreapp3.1\_0002_HomeWork_0617_o1.AssemblyInfo.cs
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_0002_HomeWork_0617_o1\obj\Debug\netcoreapp3.1\_0002_HomeWork_0617_o1.csproj.CoreCompileInputs.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_0002_HomeWork_0617_o1\obj\Debug\netcoreapp3.1\_0002_HomeWork_0617_o1.dll
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_0002_HomeWork_0617_o1\obj\Debug\netcoreapp3.1\_0002_HomeWork_0617_o1.pdb
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_0002_HomeWork_0617_o1\obj\Debug\netcoreapp3.1\_0002_HomeWork_0617_o1.genruntimeconfig.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_0002_HomeWork_0617_o1\obj\Debug\netcoreapp3.1\_0002_HomeWork_0617_o1.csprojAssemblyReference.cache

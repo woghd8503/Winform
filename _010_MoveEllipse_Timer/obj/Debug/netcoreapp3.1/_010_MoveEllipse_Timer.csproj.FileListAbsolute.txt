@@ -1,0 +1,15 @@
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_010_MoveEllipse_Timer\bin\Debug\netcoreapp3.1\_010_MoveEllipse_Timer.exe
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_010_MoveEllipse_Timer\bin\Debug\netcoreapp3.1\_010_MoveEllipse_Timer.deps.json
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_010_MoveEllipse_Timer\bin\Debug\netcoreapp3.1\_010_MoveEllipse_Timer.runtimeconfig.json
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_010_MoveEllipse_Timer\bin\Debug\netcoreapp3.1\_010_MoveEllipse_Timer.runtimeconfig.dev.json
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_010_MoveEllipse_Timer\bin\Debug\netcoreapp3.1\_010_MoveEllipse_Timer.dll
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_010_MoveEllipse_Timer\bin\Debug\netcoreapp3.1\_010_MoveEllipse_Timer.pdb
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_010_MoveEllipse_Timer\obj\Debug\netcoreapp3.1\_010_MoveEllipse_Timer.csprojAssemblyReference.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_010_MoveEllipse_Timer\obj\Debug\netcoreapp3.1\_10_MoveEllipse_Timer.Form1.resources
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_010_MoveEllipse_Timer\obj\Debug\netcoreapp3.1\_010_MoveEllipse_Timer.csproj.GenerateResource.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_010_MoveEllipse_Timer\obj\Debug\netcoreapp3.1\_010_MoveEllipse_Timer.AssemblyInfoInputs.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_010_MoveEllipse_Timer\obj\Debug\netcoreapp3.1\_010_MoveEllipse_Timer.AssemblyInfo.cs
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_010_MoveEllipse_Timer\obj\Debug\netcoreapp3.1\_010_MoveEllipse_Timer.csproj.CoreCompileInputs.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_010_MoveEllipse_Timer\obj\Debug\netcoreapp3.1\_010_MoveEllipse_Timer.dll
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_010_MoveEllipse_Timer\obj\Debug\netcoreapp3.1\_010_MoveEllipse_Timer.pdb
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_010_MoveEllipse_Timer\obj\Debug\netcoreapp3.1\_010_MoveEllipse_Timer.genruntimeconfig.cache

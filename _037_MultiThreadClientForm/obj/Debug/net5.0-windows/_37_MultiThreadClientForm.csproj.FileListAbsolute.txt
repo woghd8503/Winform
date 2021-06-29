@@ -1,0 +1,17 @@
+D:\Lecture\_04_WinForm\lec\WinFormApplication\_37_MultiThreadClientForm\bin\Debug\net5.0-windows\_37_MultiThreadClientForm.exe
+D:\Lecture\_04_WinForm\lec\WinFormApplication\_37_MultiThreadClientForm\bin\Debug\net5.0-windows\_37_MultiThreadClientForm.deps.json
+D:\Lecture\_04_WinForm\lec\WinFormApplication\_37_MultiThreadClientForm\bin\Debug\net5.0-windows\_37_MultiThreadClientForm.runtimeconfig.json
+D:\Lecture\_04_WinForm\lec\WinFormApplication\_37_MultiThreadClientForm\bin\Debug\net5.0-windows\_37_MultiThreadClientForm.runtimeconfig.dev.json
+D:\Lecture\_04_WinForm\lec\WinFormApplication\_37_MultiThreadClientForm\bin\Debug\net5.0-windows\_37_MultiThreadClientForm.dll
+D:\Lecture\_04_WinForm\lec\WinFormApplication\_37_MultiThreadClientForm\bin\Debug\net5.0-windows\ref\_37_MultiThreadClientForm.dll
+D:\Lecture\_04_WinForm\lec\WinFormApplication\_37_MultiThreadClientForm\bin\Debug\net5.0-windows\_37_MultiThreadClientForm.pdb
+D:\Lecture\_04_WinForm\lec\WinFormApplication\_37_MultiThreadClientForm\obj\Debug\net5.0-windows\_37_MultiThreadClientForm.Form1.resources
+D:\Lecture\_04_WinForm\lec\WinFormApplication\_37_MultiThreadClientForm\obj\Debug\net5.0-windows\_37_MultiThreadClientForm.csproj.GenerateResource.cache
+D:\Lecture\_04_WinForm\lec\WinFormApplication\_37_MultiThreadClientForm\obj\Debug\net5.0-windows\_37_MultiThreadClientForm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lecture\_04_WinForm\lec\WinFormApplication\_37_MultiThreadClientForm\obj\Debug\net5.0-windows\_37_MultiThreadClientForm.AssemblyInfoInputs.cache
+D:\Lecture\_04_WinForm\lec\WinFormApplication\_37_MultiThreadClientForm\obj\Debug\net5.0-windows\_37_MultiThreadClientForm.AssemblyInfo.cs
+D:\Lecture\_04_WinForm\lec\WinFormApplication\_37_MultiThreadClientForm\obj\Debug\net5.0-windows\_37_MultiThreadClientForm.csproj.CoreCompileInputs.cache
+D:\Lecture\_04_WinForm\lec\WinFormApplication\_37_MultiThreadClientForm\obj\Debug\net5.0-windows\_37_MultiThreadClientForm.dll
+D:\Lecture\_04_WinForm\lec\WinFormApplication\_37_MultiThreadClientForm\obj\Debug\net5.0-windows\ref\_37_MultiThreadClientForm.dll
+D:\Lecture\_04_WinForm\lec\WinFormApplication\_37_MultiThreadClientForm\obj\Debug\net5.0-windows\_37_MultiThreadClientForm.pdb
+D:\Lecture\_04_WinForm\lec\WinFormApplication\_37_MultiThreadClientForm\obj\Debug\net5.0-windows\_37_MultiThreadClientForm.genruntimeconfig.cache

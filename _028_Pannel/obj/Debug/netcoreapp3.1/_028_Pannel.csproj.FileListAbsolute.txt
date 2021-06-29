@@ -1,0 +1,16 @@
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_028_Pannel\bin\Debug\netcoreapp3.1\_028_Pannel.exe
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_028_Pannel\bin\Debug\netcoreapp3.1\_028_Pannel.deps.json
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_028_Pannel\bin\Debug\netcoreapp3.1\_028_Pannel.runtimeconfig.json
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_028_Pannel\bin\Debug\netcoreapp3.1\_028_Pannel.runtimeconfig.dev.json
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_028_Pannel\bin\Debug\netcoreapp3.1\_028_Pannel.dll
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_028_Pannel\bin\Debug\netcoreapp3.1\_028_Pannel.pdb
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_028_Pannel\obj\Debug\netcoreapp3.1\_028_Pannel.Form1.resources
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_028_Pannel\obj\Debug\netcoreapp3.1\_028_Pannel.csproj.GenerateResource.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_028_Pannel\obj\Debug\netcoreapp3.1\_028_Pannel.AssemblyInfoInputs.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_028_Pannel\obj\Debug\netcoreapp3.1\_028_Pannel.AssemblyInfo.cs
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_028_Pannel\obj\Debug\netcoreapp3.1\_028_Pannel.csproj.CoreCompileInputs.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_028_Pannel\obj\Debug\netcoreapp3.1\_028_Pannel.dll
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_028_Pannel\obj\Debug\netcoreapp3.1\_028_Pannel.pdb
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_028_Pannel\obj\Debug\netcoreapp3.1\_028_Pannel.genruntimeconfig.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_028_Pannel\obj\Debug\netcoreapp3.1\_028_Pannel.csprojAssemblyReference.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_028_Pannel\obj\Debug\netcoreapp3.1\_028_Pannel.Properties.Resources.resources

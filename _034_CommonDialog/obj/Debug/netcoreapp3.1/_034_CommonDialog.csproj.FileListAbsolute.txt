@@ -1,0 +1,15 @@
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_034_CommonDialog\bin\Debug\netcoreapp3.1\_034_CommonDialog.exe
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_034_CommonDialog\bin\Debug\netcoreapp3.1\_034_CommonDialog.deps.json
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_034_CommonDialog\bin\Debug\netcoreapp3.1\_034_CommonDialog.runtimeconfig.json
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_034_CommonDialog\bin\Debug\netcoreapp3.1\_034_CommonDialog.runtimeconfig.dev.json
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_034_CommonDialog\bin\Debug\netcoreapp3.1\_034_CommonDialog.dll
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_034_CommonDialog\bin\Debug\netcoreapp3.1\_034_CommonDialog.pdb
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_034_CommonDialog\obj\Debug\netcoreapp3.1\_034_CommonDialog.csprojAssemblyReference.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_034_CommonDialog\obj\Debug\netcoreapp3.1\_34_CommonDialog.Form1.resources
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_034_CommonDialog\obj\Debug\netcoreapp3.1\_034_CommonDialog.csproj.GenerateResource.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_034_CommonDialog\obj\Debug\netcoreapp3.1\_034_CommonDialog.AssemblyInfoInputs.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_034_CommonDialog\obj\Debug\netcoreapp3.1\_034_CommonDialog.AssemblyInfo.cs
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_034_CommonDialog\obj\Debug\netcoreapp3.1\_034_CommonDialog.csproj.CoreCompileInputs.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_034_CommonDialog\obj\Debug\netcoreapp3.1\_034_CommonDialog.dll
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_034_CommonDialog\obj\Debug\netcoreapp3.1\_034_CommonDialog.pdb
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_034_CommonDialog\obj\Debug\netcoreapp3.1\_034_CommonDialog.genruntimeconfig.cache

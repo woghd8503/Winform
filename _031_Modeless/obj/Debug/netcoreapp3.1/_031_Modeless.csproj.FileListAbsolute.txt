@@ -1,0 +1,16 @@
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_031_Modeless\bin\Debug\netcoreapp3.1\_031_Modeless.exe
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_031_Modeless\bin\Debug\netcoreapp3.1\_031_Modeless.deps.json
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_031_Modeless\bin\Debug\netcoreapp3.1\_031_Modeless.runtimeconfig.json
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_031_Modeless\bin\Debug\netcoreapp3.1\_031_Modeless.runtimeconfig.dev.json
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_031_Modeless\bin\Debug\netcoreapp3.1\_031_Modeless.dll
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_031_Modeless\bin\Debug\netcoreapp3.1\_031_Modeless.pdb
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_031_Modeless\obj\Debug\netcoreapp3.1\_031_Modeless.Form1.resources
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_031_Modeless\obj\Debug\netcoreapp3.1\_031_Modeless.ModelessForm.resources
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_031_Modeless\obj\Debug\netcoreapp3.1\_031_Modeless.Properties.Resources.resources
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_031_Modeless\obj\Debug\netcoreapp3.1\_031_Modeless.csproj.GenerateResource.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_031_Modeless\obj\Debug\netcoreapp3.1\_031_Modeless.AssemblyInfoInputs.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_031_Modeless\obj\Debug\netcoreapp3.1\_031_Modeless.AssemblyInfo.cs
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_031_Modeless\obj\Debug\netcoreapp3.1\_031_Modeless.csproj.CoreCompileInputs.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_031_Modeless\obj\Debug\netcoreapp3.1\_031_Modeless.dll
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_031_Modeless\obj\Debug\netcoreapp3.1\_031_Modeless.pdb
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_031_Modeless\obj\Debug\netcoreapp3.1\_031_Modeless.genruntimeconfig.cache

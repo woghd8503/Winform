@@ -1,0 +1,6 @@
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_24_ListBox_ConboBox\obj\Debug\netcoreapp3.1\_24_ListBox_ConboBox.csprojAssemblyReference.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_24_ListBox_ConboBox\obj\Debug\netcoreapp3.1\_24_ListBox_ConboBox.Form1.resources
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_24_ListBox_ConboBox\obj\Debug\netcoreapp3.1\_24_ListBox_ConboBox.csproj.GenerateResource.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_24_ListBox_ConboBox\obj\Debug\netcoreapp3.1\_24_ListBox_ConboBox.AssemblyInfoInputs.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_24_ListBox_ConboBox\obj\Debug\netcoreapp3.1\_24_ListBox_ConboBox.AssemblyInfo.cs
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_24_ListBox_ConboBox\obj\Debug\netcoreapp3.1\_24_ListBox_ConboBox.csproj.CoreCompileInputs.cache

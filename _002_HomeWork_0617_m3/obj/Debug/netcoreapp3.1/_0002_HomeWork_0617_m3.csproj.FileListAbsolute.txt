@@ -1,0 +1,15 @@
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_002_HomeWork_0617_m3\obj\Debug\netcoreapp3.1\_002_HomeWork_0617_m3.Form1.resources
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_002_HomeWork_0617_m3\obj\Debug\netcoreapp3.1\_0002_HomeWork_0617_m3.csproj.GenerateResource.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_002_HomeWork_0617_m3\obj\Debug\netcoreapp3.1\_0002_HomeWork_0617_m3.AssemblyInfoInputs.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_002_HomeWork_0617_m3\obj\Debug\netcoreapp3.1\_0002_HomeWork_0617_m3.AssemblyInfo.cs
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_002_HomeWork_0617_m3\obj\Debug\netcoreapp3.1\_0002_HomeWork_0617_m3.csproj.CoreCompileInputs.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_002_HomeWork_0617_m3\bin\Debug\netcoreapp3.1\_0002_HomeWork_0617_m3.exe
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_002_HomeWork_0617_m3\bin\Debug\netcoreapp3.1\_0002_HomeWork_0617_m3.deps.json
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_002_HomeWork_0617_m3\bin\Debug\netcoreapp3.1\_0002_HomeWork_0617_m3.runtimeconfig.json
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_002_HomeWork_0617_m3\bin\Debug\netcoreapp3.1\_0002_HomeWork_0617_m3.runtimeconfig.dev.json
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_002_HomeWork_0617_m3\bin\Debug\netcoreapp3.1\_0002_HomeWork_0617_m3.dll
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_002_HomeWork_0617_m3\bin\Debug\netcoreapp3.1\_0002_HomeWork_0617_m3.pdb
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_002_HomeWork_0617_m3\obj\Debug\netcoreapp3.1\_0002_HomeWork_0617_m3.dll
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_002_HomeWork_0617_m3\obj\Debug\netcoreapp3.1\_0002_HomeWork_0617_m3.pdb
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_002_HomeWork_0617_m3\obj\Debug\netcoreapp3.1\_0002_HomeWork_0617_m3.genruntimeconfig.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_002_HomeWork_0617_m3\obj\Debug\netcoreapp3.1\_0002_HomeWork_0617_m3.csprojAssemblyReference.cache

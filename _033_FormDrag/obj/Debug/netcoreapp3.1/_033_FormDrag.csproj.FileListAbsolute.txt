@@ -1,0 +1,16 @@
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_033_FormDrag\bin\Debug\netcoreapp3.1\_033_FormDrag.exe
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_033_FormDrag\bin\Debug\netcoreapp3.1\_033_FormDrag.deps.json
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_033_FormDrag\bin\Debug\netcoreapp3.1\_033_FormDrag.runtimeconfig.json
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_033_FormDrag\bin\Debug\netcoreapp3.1\_033_FormDrag.runtimeconfig.dev.json
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_033_FormDrag\bin\Debug\netcoreapp3.1\_033_FormDrag.dll
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_033_FormDrag\bin\Debug\netcoreapp3.1\_033_FormDrag.pdb
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_033_FormDrag\obj\Debug\netcoreapp3.1\_033_FormDrag.csprojAssemblyReference.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_033_FormDrag\obj\Debug\netcoreapp3.1\_33_FormDrag.Form1.resources
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_033_FormDrag\obj\Debug\netcoreapp3.1\_033_FormDrag.Properties.Resources.resources
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_033_FormDrag\obj\Debug\netcoreapp3.1\_033_FormDrag.csproj.GenerateResource.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_033_FormDrag\obj\Debug\netcoreapp3.1\_033_FormDrag.AssemblyInfoInputs.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_033_FormDrag\obj\Debug\netcoreapp3.1\_033_FormDrag.AssemblyInfo.cs
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_033_FormDrag\obj\Debug\netcoreapp3.1\_033_FormDrag.csproj.CoreCompileInputs.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_033_FormDrag\obj\Debug\netcoreapp3.1\_033_FormDrag.dll
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_033_FormDrag\obj\Debug\netcoreapp3.1\_033_FormDrag.pdb
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_033_FormDrag\obj\Debug\netcoreapp3.1\_033_FormDrag.genruntimeconfig.cache

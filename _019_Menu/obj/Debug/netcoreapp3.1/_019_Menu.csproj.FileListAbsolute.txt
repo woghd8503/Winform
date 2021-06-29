@@ -1,0 +1,14 @@
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_019_Menu\bin\Debug\netcoreapp3.1\_019_Menu.exe
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_019_Menu\bin\Debug\netcoreapp3.1\_019_Menu.deps.json
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_019_Menu\bin\Debug\netcoreapp3.1\_019_Menu.runtimeconfig.json
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_019_Menu\bin\Debug\netcoreapp3.1\_019_Menu.runtimeconfig.dev.json
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_019_Menu\bin\Debug\netcoreapp3.1\_019_Menu.dll
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_019_Menu\bin\Debug\netcoreapp3.1\_019_Menu.pdb
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_019_Menu\obj\Debug\netcoreapp3.1\_019_Menu.Form1.resources
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_019_Menu\obj\Debug\netcoreapp3.1\_019_Menu.csproj.GenerateResource.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_019_Menu\obj\Debug\netcoreapp3.1\_019_Menu.AssemblyInfoInputs.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_019_Menu\obj\Debug\netcoreapp3.1\_019_Menu.AssemblyInfo.cs
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_019_Menu\obj\Debug\netcoreapp3.1\_019_Menu.csproj.CoreCompileInputs.cache
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_019_Menu\obj\Debug\netcoreapp3.1\_019_Menu.dll
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_019_Menu\obj\Debug\netcoreapp3.1\_019_Menu.pdb
+D:\_01_CSharp\lec\_04_WinForm\lec\WinFormApplications\_019_Menu\obj\Debug\netcoreapp3.1\_019_Menu.genruntimeconfig.cache

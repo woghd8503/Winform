@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "_029_Spliter/1.0.0": {
+        "runtime": {
+          "_029_Spliter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "_029_Spliter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
